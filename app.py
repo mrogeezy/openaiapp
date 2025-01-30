@@ -1,4 +1,5 @@
 import streamlit as st
+st.image(https://viso.ai/wp-content/uploads/2024/02/ai-generated-content-detection-system-recognize-ai-content.jpg, caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
